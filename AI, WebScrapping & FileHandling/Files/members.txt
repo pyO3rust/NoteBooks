@@ -1,0 +1,7 @@
+User Id  Date Joined  Active  
+  705    2016-6-24    yes   
+  977    2020-5-1     yes   
+  928    2019-6-6     yes   
+  362    2019-10-16   yes   
+  780    2019-9-11    yes   
+  803    2020-11-22   yes   
